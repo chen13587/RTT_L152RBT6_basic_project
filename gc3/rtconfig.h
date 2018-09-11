@@ -1,6 +1,6 @@
 #ifndef RT_CONFIG_H__
 #define RT_CONFIG_H__
-
+//
 /* Automatically generated file; DO NOT EDIT. */
 /* RT-Thread Configuration */
 
@@ -230,7 +230,7 @@
 /* STM32F103CB is not set */
 /* STM32F103R8 is not set */
 /* STM32F103RB is not set */
-#define STM32F102RB            //注意这边图方便，没修改。要修改芯片 必须要改对应16k
+#define STM32F102RB            //娉ㄦ剰杩欒竟鍥炬柟渚匡紝娌′慨鏀广�傝淇敼鑺墖 蹇呴』瑕佹敼瀵瑰簲16k
 /* STM32F103RD is not set */
 /* STM32F103RE is not set */
 /* STM32F103RF is not set */
